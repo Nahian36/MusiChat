@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805426000205",
+    "project_id": "onemoretime-bfcd9",
+    "storage_bucket": "onemoretime-bfcd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805426000205:android:0968395e67fa904abf8704",
+        "android_client_info": {
+          "package_name": "com.onemoretime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805426000205-n5uqeq7j5o9on8ui71vm71hmfk87n7o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVx3xaR7cGZHfdkSy7DkHkzWTGtqzCZIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805426000205-n5uqeq7j5o9on8ui71vm71hmfk87n7o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

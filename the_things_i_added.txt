@@ -1,0 +1,31 @@
+npm install --save @react-native-firebase/app
+
+npm install @react-native-firebase/auth
+
+npm install @react-navigation/native --save
+
+npm install @react-navigation/stack --save
+
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view --save
+
+npm i @react-native-firebase/database
+
+npm i @react-native-firebase/firestore
+
+npm i reat-native-paper
+
+npm i @react-native-community/slider
+
+npm i react-native-video
+
+npm i react-native-media-controls
+
+npm i emailjs-com
+
+npm install react-native-pdf rn-fetch-blob @react-native-community/progress-bar-android @react-native-community/progress-view --save
+
+npm i qs
+
+npm install --save react-native-video-player react-native-video react-native-vector-icons
+
+npm i react-native-elements
