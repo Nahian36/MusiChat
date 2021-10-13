@@ -63,7 +63,7 @@ The Chat Page will be looking like he following image. Users can chat with other
 - Recently Played Contents.
 
 
-## Author
+## Authors
 
 This was an academic project worked on by:
 
